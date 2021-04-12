@@ -1,0 +1,9 @@
+Librerias a Instalar:
+
+1. Creacion del proyecto: npx create-react-app react-leaflet-prueba1
+
+2. Instalar el leaflet: npm i react-leaflet leaftet
+
+3. Instalar react-dom: nom i react-router-dom
+
+4. Inicializar: npm start
